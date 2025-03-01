@@ -10,7 +10,7 @@ Step 2 Find your bottom layer as pictured and stack the three bottom peices on t
 Step 3. Insert spacers intp the seven holes then find your foot layer and align it on the bottom. Once everything is aligned screw all the spacers
 in from the bottom the bottom 
 
-![alt text](https://github.com/ShrimpedKeyboard/V40-10-5/blob/main/Guide%20pics/Step%203-1png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/V40-10-5/blob/main/Guide%20pics/step%203-1.png?raw=true)
 
 ![alt text](https://github.com/ShrimpedKeyboard/V40-10-5/blob/main/Guide%20pics/Step%203-2.png?raw=true)
 
